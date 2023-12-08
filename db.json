@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "username": "John",
+      "points": 60,
+      "wins_loses": [
+        5,
+        7
+      ],
+      "last5games": [
+        "Player",
+        "Player",
+        "Casino",
+        "Player",
+        "Casino"
+      ],
+      "id": 1
+    },
+    {
+      "username": "Anna",
+      "points": 100,
+      "wins_loses": [
+        0,
+        0
+      ],
+      "last5games": [],
+      "id": 2
+    }
+  ]
+}
